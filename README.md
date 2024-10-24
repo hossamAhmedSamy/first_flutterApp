@@ -1,4 +1,4 @@
-# first_app
+# Simple dice rolling application 
 
 A new Flutter project that ensures and decomenting my flutter learning journey 
 
