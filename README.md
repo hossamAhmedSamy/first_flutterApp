@@ -1,4 +1,4 @@
-# Simple dice rolling application 
+# Simple Roll Dice application 
 
 A new Flutter project that ensures and decomenting my flutter learning journey 
 
